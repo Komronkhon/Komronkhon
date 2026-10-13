@@ -71,7 +71,7 @@ A REST API for tracking personal expenses, built with ASP.NET Core and .NET 10.
 ## 💼 Experience
 
 - **C# Backend Developer** — Fintech Stan *(December 2025 – present)*
-- **Full-stack Developer** — Afkor *(2023 – 2025; PHP, Laravel, JavaScript, HTML, CSS)*
+- **Full-stack Developer** — Afkor Education*(2023 – 2025; PHP, Laravel, JavaScript, HTML, CSS)*
 
 ## 🎓 Education
 
